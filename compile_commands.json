@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/yz/dev/github.com/yzaimoglu/lithium-sandbox",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Os", "-std=c++17", "-Isrc", "-I/usr/lib/lithium/include", "-I", "/usr/include/x86_64-linux-gnu", "-I", "/home/yz/.xmake/packages/b/boost/1.84.0/fa07d8d8a75e4275b3aab684aea07f3a/include", "-I", "/home/yz/.xmake/packages/b/bzip2/1.0.8/8db6bd46210f4711a452b7767b44748c/include", "-DNDEBUG", "-o", "build/.objs/lithium-sandbox/linux/x86_64/release/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]
